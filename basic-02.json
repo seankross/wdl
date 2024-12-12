@@ -1,0 +1,4 @@
+{
+  "DataProcessingWorkflow.input_file": "/hpc/temp/leek_j/user/skross/input.txt",
+  "DataProcessingWorkflow.prefix": "analysis"
+}

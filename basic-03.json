@@ -1,0 +1,4 @@
+{
+    "FileProcessingPipeline.input_file": "/hpc/temp/leek_j/user/skross/basic-03.txt",
+    "FileProcessingPipeline.split_lines": 10
+}
